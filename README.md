@@ -3,7 +3,7 @@
 Abstract: This project is to practice git. 
 
 ## Vim modes
-
+halohalo
 - Normal mode: press `esc` on ANY mode
 - Insert mode: press `i` on Normal mode
 - Visual mode: press `v` on Normal mode
